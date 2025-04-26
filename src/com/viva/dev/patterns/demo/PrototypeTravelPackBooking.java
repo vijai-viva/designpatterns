@@ -1,4 +1,4 @@
-package com.viva.dev.patterns.Demo;
+package com.viva.dev.patterns.demo;
 
 import com.viva.dev.patterns.creational.prototype.HolidayPackage;
 
