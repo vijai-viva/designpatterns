@@ -35,7 +35,7 @@ The Factory Method Design Pattern is one of the most commonly used creational de
 - [CruiseFactory.java](src/com/viva/dev/patterns/creational/factory/CruiseFactory.java) is the creator, which uses createCruise() as the factory method.
 - [LuxuryFactory.java](src/com/viva/dev/patterns/creational/factory/LuxuryFactory.java) and [BudgetFactory.java](src/com/viva/dev/patterns/creational/factory/BudgetFactory.java) are concrete creators.
 
-The client (CruiseBookingApp) works with the factory abstraction.
+The client : [FactoryMethodCruiseApp] (src/com/viva/dev/patterns/demo/FactoryMethodCruiseApp.java) works with the factory abstraction.
 ------------------------
 #### 3. Abstract Factory Pattern
 The Abstract Factory Pattern is a creational design pattern that provides an interface for creating families of related or dependent objects without specifying their concrete classes.
